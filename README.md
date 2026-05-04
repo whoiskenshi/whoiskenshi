@@ -1,3 +1,6 @@
+![Vahe Manukyan Cover](https://raw.githubusercontent.com/whoiskenshi/whoiskenshi/refs/heads/main/cover.jpg)
+
+
 <h1 align="center">Vahe Manukyan | Full Stack Software Engineer</h1>
 
 Full Stack Software Engineer with 4+ years of experience building production-grade web applications. I specialize in React/Next.js on the frontend and Node.js/Nest.js on the backend, with a strong focus on SSR/ISR performance, AI-integrated systems, and scalable architecture.
